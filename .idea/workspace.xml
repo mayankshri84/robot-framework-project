@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae6633b9-7175-4584-b375-7c91cb3ad5e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VX2sE6mVhP70yYy12q61DDLvGt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Python36-32" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mayank\Desktop\workspace-python\robot-framework-project\robot-testcases" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae6633b9-7175-4584-b375-7c91cb3ad5e5" name="Default Changelist" comment="" />
+      <created>1577385323330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577385323330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="24" key="#Log_Highlighting_(ideolog)" timestamp="1577386091469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Log_Highlighting_(ideolog)/0.0.1366.728@0.0.1366.728" timestamp="1577386091469" />
+    <state x="621" y="121" key="FileChooserDialogImpl" timestamp="1577645967970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="621" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577645967970" />
+    <state x="509" y="280" key="Github.CreateGistDialog" timestamp="1577620443739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="509" y="280" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1577620443739" />
+    <state x="263" y="101" key="IDE.errors.dialog" timestamp="1577647426999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="101" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1577647426999" />
+    <state x="345" y="0" key="SettingsEditor" timestamp="1577647942887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577647942887" />
+    <state x="505" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1577648072421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="156" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577648072421" />
+  </component>
+</project>
