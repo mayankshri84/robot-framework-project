@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6633b9-7175-4584-b375-7c91cb3ad5e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-element-handling/AlertHandle.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-element-handling/IframeHandle.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-screenshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-screenshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-screenshot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-screenshot-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-screenshot-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot-element-handling/simple-testcase.robot" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
