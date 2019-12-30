@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae6633b9-7175-4584-b375-7c91cb3ad5e5" name="Default Changelist" comment="" />
+    <list default="true" id="ae6633b9-7175-4584-b375-7c91cb3ad5e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robot-element-handling/AlertHandle.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robot-element-handling/IframeHandle.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +24,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VX2sE6mVhP70yYy12q61DDLvGt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Python36-32" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,11 +73,18 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#Log_Highlighting_(ideolog)" timestamp="1577386091469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="24" key="#Log_Highlighting_(ideolog)/0.0.1366.728@0.0.1366.728" timestamp="1577386091469" />
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1577648911783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577648911783" />
     <state x="621" y="121" key="FileChooserDialogImpl" timestamp="1577645967970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -72,13 +97,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="101" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1577647426999" />
-    <state x="345" y="0" key="SettingsEditor" timestamp="1577647942887">
+    <state x="345" y="0" key="SettingsEditor" timestamp="1577731615941">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="345" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577647942887" />
-    <state x="505" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1577648072421">
+    <state x="345" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577731615941" />
+    <state x="505" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1577731655588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="505" y="156" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577648072421" />
+    <state x="505" y="156" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577731655588" />
   </component>
 </project>
